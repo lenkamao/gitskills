@@ -17,4 +17,4 @@ Git
 \f1\b \cf4 is
 \f0\b0 \cf2  free software distributed under the GPL.\
 
-\f2 \'b9\'fe\'b9\'fe\'b9\'fe\'b9\'fe\'b4\'f3\'bf\'a8\'cb\'be\'c0\'ad\'bf\'a8\'c0\'ad\'bf\'a8\'c8\'f8\'b6\'a1}
+\f2 \'b9\'fe\'b9\'fe\'b9\'fe\'b9\'fe\'b4\'f3\'bf\'a8\'cb\'be\'c0\'ad\'bf\'a8\'c0\'ad\'bf\'a8\'c8\'f8\'b6\'a11+1=23\'a3\'bf}
